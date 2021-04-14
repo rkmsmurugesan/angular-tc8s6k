@@ -17,6 +17,12 @@ export const products = [
     price: 299,
     description: ''
   }
+  {
+    id: 4,
+    name: 'Samsung',
+    price: 399,
+    description: ''
+  }
 ];
 
 
